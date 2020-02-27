@@ -1,0 +1,38 @@
+#Zapytanie {
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#Zacheta {
+    font-size: larger;
+    margin-bottom: 10px;
+}
+
+#Wynik {
+    margin-left: 100px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-left: 3px double black;
+}
+#footer {
+    width: 100%;
+    text-align: right;
+    color: black;
+    border-top: 1px black double;
+    margin-top: 100px;
+    position: absolute;
+    top: 400px;
+    left: 0px;
+}
+#footer a {
+    color: black;
+    text-decoration: none;
+}
+#fcontent {
+    margin-right: 20px;
+}
